@@ -28,9 +28,9 @@ This can be useful when inside useEffect you use closure where getting value of 
 ## useEffect
 https://reactjs.org/docs/hooks-effect.html
 
-- in old model that is similar to usage of componentDidUpdate and componentDidMount
-- `useEffect` without second param is invoked on each component mount and rerender  
-- simple usage exmaple:
+- in old model that is similar to usage of `componentDidUpdate` and `componentDidMount`
+- `useEffect` without second parameter is invoked on each component mount and rerender
+- simple usage example:
     ```javascript
     import React, { useState, useEffect } from 'react';
 
@@ -55,7 +55,7 @@ https://reactjs.org/docs/hooks-effect.html
   ```javascript
     useEffect(() => {}, [count])
   ```
-- when as second param empty array `[]` is used effect is invoked only mount
+- when empty array `[]` is used as second param effect invokes only on mount
 - if we want to do some clean up just return clean up function from effect:
   ```javascript
   function FriendStatus(props) {
