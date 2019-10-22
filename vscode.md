@@ -5,7 +5,18 @@
 {
 	"workbench.editor.enablePreview": false,
     "workbench.editor.enablePreviewFromQuickOpen": false,
-    "editor.renderWhitespace": "all"
+    "editor.renderWhitespace": "none",
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.tree.indent": 14,
+    "workbench.iconTheme": "vscode-icons",
+    "explorer.confirmDragAndDrop": false,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.colorTheme": "Noctis Obscuro",
+    "editor.smoothScrolling": true,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true
 }
 ```
 
