@@ -21,7 +21,7 @@
 ```
 
 
-# extensions:
+# Install extensions:
 - code spell checker
 - vscode-icons
 - intellij keyshortcuts
