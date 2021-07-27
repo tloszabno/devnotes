@@ -35,8 +35,7 @@
 ## Install Packages
 
 ```bash
-sudo apt install -y python3-gpg keepassxc vlc git gitk vim vim-gtk guake gufw chrome-gnome-shell rar unrar p7zip-full p7zip-rar wine winetricks curl terminator fish mc qnapi ffmpeg python3-pip pipenv flameshot
-
+sudo apt install -y python3-gpg keepassxc vlc git gitk vim vim-gtk guake gufw chrome-gnome-shell rar unrar p7zip-full p7zip-rar wine winetricks curl terminator fish mc qnapi ffmpeg python3-pip pipenv flameshot nodejs npm
 
 pip install pep8
 pip install --upgrade autopep8
