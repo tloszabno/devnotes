@@ -126,6 +126,13 @@ git config --global user.name "Tomasz Los"
 * VS Code https://code.visualstudio.com/docs/?dv=linux64_deb
 * https://velog.io/@spearkkk/Usage-jEnv-in-Fish + jenv install
 
+## Gnome extentions
+
+* https://extensions.gnome.org/extension/277/impatience/
+* https://extensions.gnome.org/extension/1401/bluetooth-quick-connect/
+* https://extensions.gnome.org/extension/906/sound-output-device-chooser/
+* https://extensions.gnome.org/extension/1043/gnomestatspro/
+
 ## Other things to configure
 
 * https://www.cyberciti.biz/faq/linux-unix-running-sudo-command-without-a-password/
