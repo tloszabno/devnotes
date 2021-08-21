@@ -62,6 +62,7 @@ cd ~
 git clone git@github.com:tloszabno/rivendell-scripts.git Scripts
 ln -s ~/Scripts/config/tl.fish ~/.config/fish/conf.d/
 ln -s ~/Scripts/config/autojump.fish ~/.config/fish/conf.d/
+ln -s ~/Scripts/config/fusuma.yml ~/.config/fusuma/config.yml
 ```
 
 
@@ -132,11 +133,12 @@ git config --global user.name "Tomasz Los"
 * https://extensions.gnome.org/extension/1401/bluetooth-quick-connect/
 * https://extensions.gnome.org/extension/906/sound-output-device-chooser/
 * https://extensions.gnome.org/extension/1043/gnomestatspro/
-
+* https://extensions.gnome.org/extension/2857/maximize-to-workspace-with-history/
 ## Other things to configure
 
 * https://www.cyberciti.biz/faq/linux-unix-running-sudo-command-without-a-password/
 * https://donjayamanne.github.io/pythonVSCodeDocs/docs/formatting/
+* https://github.com/iberianpig/fusuma
 
 ## Review this pages for more adjustments
 
