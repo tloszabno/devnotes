@@ -13,7 +13,6 @@
     "[typescript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    "workbench.colorTheme": "Noctis Obscuro",
     "editor.smoothScrolling": true,
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true
@@ -34,3 +33,4 @@
 - htmltagwrap
 - tslint
 - prettier
+- npm Intellisense
